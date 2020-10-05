@@ -19,13 +19,12 @@ import datetime
 
 
 print ('''
-	   
-d88888b  db d8888b. d8888b. d8888b. d8888b.  .d88b.  .d8888.
-88'     o88 88  `8D VP  `8D 88  `8D 88  `8D .8P  Y8. 88'  YP
-88ooo    88 88oobY'   oooY' 88   88 88   88 88    88 `8bo.  
-88~~~    88 88`8b     ~~~b. 88   88 88   88 88    88   `Y8b.
-88       88 88 `88. db   8D 88  .8D 88  .8D `8b  d8' db   8D
-YP       VP 88   YD Y8888P' Y8888D' Y8888D'  `Y88P'  `8888Y '''')
+ ______ __ _____  ____  _____  _____   ____   _____ 
+|  ____/_ |  __ \|___ \|  __ \|  __ \ / __ \ / ____|
+| |__   | | |__) | __) | |  | | |  | | |  | | (___  
+|  __|  | |  _  / |__ <| |  | | |  | | |  | |\___ \ 
+| |     | | | \ \ ___) | |__| | |__| | |__| |____) |
+|_|     |_|_|  \_\____/|_____/|_____/ \____/|_____/ '''')
 
 acceptall = [
 		"Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\n",
